@@ -1,4 +1,4 @@
-# Hi, I'm Anzin Mohammed 👋
+# Hi, I'm Anzin 👋
 
 **Interests**: High-performance computing, multicore optimization, and regional transit systems.  
 **Automation**: Developing **Trade-Lab**, an autonomous AI trading system for Indian markets.  
