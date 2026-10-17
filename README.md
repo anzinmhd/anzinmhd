@@ -1,20 +1,48 @@
-# Hi, I'm Anzin 👋
+<h1 align="center">🛠️ About me</h1>
 
-**Interests**: High-performance computing, multicore optimization, and regional transit systems.  
-**Automation**: Developing **Trade-Lab**, an autonomous AI trading system for Indian markets.  
-**Systems**: Managing 24/7 production environments on **Azure VM (Ubuntu 24.04)**.  
-**Open Source**: Enthusiastic about contributing to performance optimization and automation tools.  
+<p align="center">
+  <samp>
+    <a href="https://anzinmhd.com">Website</a> ·
+    <a href="https://linkedin.com/in/anzinmhd">LinkedIn</a> ·
+    <a href="mailto:contact@anzinmhd.com">Email</a>
+  </samp>
+</p>
 
+<br>
 
-## 🌐 Socials:
+<p align="center">
+  <samp>
+    Hi, I'm <b>Anzin Mohammed.</b><br>
+    I'm exploring <b>data engineering, workflow orchestration, and MLOps</b>,<br>
+    with a current focus on Apache Airflow.
+  </samp>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anzinmhd) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@anzinmhd.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FFFDD0?style=for-the-badge&logo=google-chrome&logoColor=black)](https://anzinmhd.com)
+<p align="center">
+  <samp>
+    I have a strong interest in <b>open source</b>,<br>
+    automation, cloud infrastructure, and systems reliability.
+  </samp>
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=anzinmhd&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=anzinmhd&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=anzinmhd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <samp>
+    I've explored <b>high-performance computing</b> through<br>
+    CPU–GPU matrix multiplication benchmarking at <b>IIT Palakkad</b>.
+  </samp>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <samp>
+    I'm working on <a href="https://github.com/anzinmhd/SupplyNode"><b>SupplyNode</b></a>,
+    exploring how AI agents can support<br>
+    inventory management and supply-chain decisions.
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
+    As a hobby, I enjoy integrating <b>hardware and software</b>.<br>
+    Beyond technology, I'm interested in <b>economics, financial markets, and investing</b>.
+  </samp>
+</p>
